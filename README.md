@@ -8,7 +8,7 @@
 
 **1985.05.19**  
 email - kerberos0519@gmail.com  
-github - http://github.com/kerberos0519
+github - http://github.com/kerberos0519     
 blog - https://blog.naver.com/kerbeos0519
 
 
