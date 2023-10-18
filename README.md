@@ -73,7 +73,7 @@ blog - https://blog.naver.com/kerbeos0519
 ## ICT멘토링 요약
 | 기간 | 프로젝트 명 | 내용     |
 |:----|:---------|:--------|
-| 2023.07. - 2023.10  | [NEAR](#pm-) <br> *프로보노* | VR Glass를 이용한 청각장애인 <br> **PART** : 전체 문서 및 시나리오 관리 (기여도 20%)  <br> **LIST** : SW세부 설계서 <br> STACK : `DeepLearning`, `Python` |
+| 2023.07. - 2023.11  | [NEAR](#pm-) <br> *프로보노* | VR Glass를 이용한 청각장애인 <br> **PART** : 전체 문서 및 시나리오 관리 (기여도 20%)  <br> **LIST** : SW세부 설계서 <br> STACK : `DeepLearning`, `Python` |
 
 <br>
 
